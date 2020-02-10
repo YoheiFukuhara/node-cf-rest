@@ -1,0 +1,5 @@
+---
+applications:
+- name: node-rest
+  random-route: true
+  memory: 128M
